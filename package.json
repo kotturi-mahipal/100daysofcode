@@ -1,0 +1,18 @@
+{
+  "name": "100daysofcode",
+  "version": "1.0.0",
+  "description": "#100daysofcode challenge to learn full-stack web develepment and Devops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "100daysofcode"
+  },
+  "author": "MG Mahi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
